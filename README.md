@@ -114,7 +114,7 @@ print_spicy_foods(spicy_foods)
 Define a function `get_spicy_food_by_cuisine()` that takes a list of
 `spicy_foods` and a string representing a `cuisine`, and **returns a single
 dictionary** for the spicy food whose cuisine matches the cuisine being passed
-to the method.
+to the method.Thai
 
 ```py
 get_spicy_food_by_cuisine(spicy_foods, "American")
